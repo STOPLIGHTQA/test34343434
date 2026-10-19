@@ -1,0 +1,30 @@
+{
+  "name": "test34343434",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {
+    "dfdfsd": {
+      "id": "5WvrzaNRD0FOA0j_86-gL",
+      "given": [
+        "$.info"
+      ],
+      "severity": "error",
+      "then": {
+        "function": "alphabetical",
+        "field": "summary"
+      },
+      "name": "dfdfsd",
+      "description": "dfsdd",
+      "message": "dfsfd"
+    }
+  },
+  "extendedDefault": false
+}
